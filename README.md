@@ -1,4 +1,4 @@
-[Picture 1]
+<img width="1920" height="1080" alt="Digital VLSI" src="https://github.com/user-attachments/assets/31afc63a-4201-4336-8a43-969274b77216" />
 
 #  ***NASSCOM Digital VLSI SoC Design and Planning Program 2025***
 
@@ -16,5 +16,5 @@ This program is based on PnR (Place and Route). Here, we make use of Google-SkyW
 
 ## ***Day 1: Inception of OpenSource EDA, OpenLANE and SkyWater 130 PDK***  
 
-### ***What is Design File?***
-Design File refers to source code file written in Hardware Descriptive Language like Verilog or VHDL that describe the behavior and structure of digital circuit to meet the desired specifications
+### ***What?***
+Design
