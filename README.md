@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Digital VLSI" src="https://github.com/user-attachments/assets/31afc63a-4201-4336-8a43-969274b77216" />
+<img width="1920" height="1080" alt="Digital VLSI" src="https://github.com/user-attachments/assets/abdad34e-4b9b-4973-826b-913a338bca1d" />
 
 #  ***NASSCOM Digital VLSI SoC Design and Planning Program 2025***
 
